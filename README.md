@@ -1,2 +1,2 @@
 # Logica-de-programacao
-Aqui tem alguns de exercícios de lógica de programação com Python que fiz durante meu aprendizado.
+A ideia deste repositóri é guardar todos os exercícios que fiz para treinar lógica de programação. Também pode ser útil para quem está começando :)
